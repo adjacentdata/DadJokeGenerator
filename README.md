@@ -4,4 +4,4 @@ API:
 https://icanhazdadjoke.com/api
 
 ## Purpose
-For educational use. 
+This project was created for educational purposes. I wanted to develop a simple dad joke generator, everytime I want to share a funny dad joke with my friends
